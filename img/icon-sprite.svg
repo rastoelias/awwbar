@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+
+	<symbol id="icon-desktop" viewBox="0 0 26 26">
+		<path d="M24,2H2A2,2,0,0,0,0,4V20a2,2,0,0,0,2,2h9v1H9v2h8V23H15V22h9a2,2,0,0,0,2-2V4A2,2,0,0,0,24,2ZM23,21H21V20h2Zm1-2H2V4H24Z"/>
+	</symbol>
+	
+	<symbol id="icon-tablet-270" viewBox="0 0 22 26">
+		<path d="M20,4H2A2,2,0,0,0,0,6V20a2,2,0,0,0,2,2H20a2,2,0,0,0,2-2V6A2,2,0,0,0,20,4ZM19,20H2V6H19Zm2-6H20V12h1Z"/>
+	</symbol>
+	
+	<symbol id="icon-tablet" viewBox="0 0 18 26">
+		<path d="M16,2H2A2,2,0,0,0,0,4V22a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2V4A2,2,0,0,0,16,2ZM10,23H8V22h2Zm6-2H2V4H16Z"/>
+	</symbol>
+	
+	<symbol id="icon-mobile-270" viewBox="0 0 18 26">
+		<path d="M18,10a2,2,0,0,0-2-2H2a2,2,0,0,0-2,2v7a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2Zm-1,3v1H16V13Zm-2-3v7H2V10Z"/>
+	</symbol>
+	
+	<symbol id="icon-mobile" viewBox="0 0 11 26">
+		<path d="M9,4H2A2,2,0,0,0,0,6V20a2,2,0,0,0,2,2H9a2,2,0,0,0,2-2V6A2,2,0,0,0,9,4ZM6,21H5V20H6Zm3-2H2V6H9Z"/>
+	</symbol>
+	
+	<symbol id="icon-close" viewBox="0 0 10 10">
+		<path d="M6.43,5,10,8.57,8.57,10,5,6.43,1.43,10,0,8.57,3.57,5,0,1.43,1.43,0,5,3.57,8.57,0,10,1.43Z"/>
+	</symbol>
+	
+	<symbol id="icon-search" viewBox="0 0 21 21">
+		<path d="M21,19.57l-6.48-6.48a8.13,8.13,0,1,0-1.43,1.43L19.57,21ZM8.11,14.2A6.08,6.08,0,1,1,14.2,8.11,6.09,6.09,0,0,1,8.11,14.2Z"/>
+	</symbol>
+	
+</svg>
